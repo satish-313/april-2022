@@ -33,9 +33,6 @@ const gameOfLife = (board) => {
       }
     }
   }
-
-  deadLife.clear();
-  newLife.clear();
 };
 
 console.log(
